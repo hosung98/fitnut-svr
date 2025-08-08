@@ -12,5 +12,4 @@ public class FitnutSvrApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(FitnutSvrApplication.class, args);
 	}
-
 }
